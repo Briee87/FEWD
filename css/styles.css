@@ -1,0 +1,17 @@
+body {
+	margin:50px;
+}
+
+.col-pad {
+	margin-top: 15px;
+	magrin-bottom: 15px;
+}
+.pax {
+	min-height: 700px;
+    background: blue;
+}
+
+.pax-1, .pax-3, .pax-4 {
+	background: transparent;
+}
+
